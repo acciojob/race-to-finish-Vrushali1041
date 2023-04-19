@@ -2,7 +2,6 @@ window.promises = [];
 
 // Do not change the code above this
 // add your promises to the array `promises`
-const promises = [];
 
 for (let i = 0; i < 5; i++) {
   promises.push(new Promise((resolve, reject) => {
